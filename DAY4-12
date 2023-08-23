@@ -1,0 +1,10 @@
+x<-c(78,81,82,74,83,82,77,80,70)
+y<-c(39,37,36,42,35,36,40,38,46)
+std_deviation<-sd(x)
+std_deviation
+std_deviation1<-sd(y)
+std_deviation1
+avg_speed<-var(x)
+avg_speed
+totaltime<-var(y)
+totaltime
